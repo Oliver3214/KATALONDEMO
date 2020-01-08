@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>prueba3</name>
+   <tag></tag>
+   <comment>se ingresan los datos del login para verificar la factivilidad de cada paso</comment>
+   <testCaseGuid>73c0df64-a02c-4690-9e97-1824b7afc47b</testCaseGuid>
+</TestCaseEntity>
